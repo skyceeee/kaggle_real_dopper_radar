@@ -23,12 +23,3 @@ Dataset: [Real Doppler Radar Database (Kaggle)](https://www.kaggle.com/datasets/
 - NumPy, Pandas, Matplotlib  
 - Kaggle Notebooks  
 
-## 📂 Project Structure
-```bash
-.
-├── notebooks/
-│   └── real-dopper-rad-dar.ipynb   # Training and experiments
-├── models/
-│   ├── radar_cnn_best_single_fold.pt
-│   └── radar_cnn_fold*.pt
-├── README.md
