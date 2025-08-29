@@ -21,5 +21,15 @@ Dataset: [Real Doppler Radar Database (Kaggle)](https://www.kaggle.com/datasets/
 - Optuna  
 - scikit-learn  
 - NumPy, Pandas, Matplotlib  
-- Kaggle Notebooks  
+- Kaggle Notebooks
+
+## Ensemble Report
+<img width="605" height="301" alt="image" src="https://github.com/user-attachments/assets/9f743dce-b74f-44fd-b494-28b68d2906bd" />
+
+## Best Single Fold Report
+<img width="581" height="303" alt="image" src="https://github.com/user-attachments/assets/06d4a703-4cd5-40d0-b5e7-f61833d020ad" />
+
+
+
+
 
